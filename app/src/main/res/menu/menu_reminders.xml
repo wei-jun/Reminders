@@ -5,7 +5,7 @@
       tools:context="com.apress.gerber.reminders.app.RemindersActivity" >
 
     <item android:id="@+id/action_new"
-          android:title="@string/new_reminder"
+          android:title="new Reminder"
           android:orderInCategory="100"
           app:showAsAction="never" />
     <item android:id="@+id/action_exit"
